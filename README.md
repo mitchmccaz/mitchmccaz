@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mitchmccaz
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security and Code Development
 - 🌱 I’m currently learning code Devlopement
 - 💞️ I’m looking to collaborate on anything software related
 - 📫 Reach me by email : mitchmccaz@gmail.com
